@@ -1,0 +1,10 @@
+export const root = "/";
+export const login = "/users/login";
+export const signup = "/users/signup";
+export const activateAccount = "/users/activateAccount/:token";
+export const forgotpassword = "/users/forgotpassword";
+export const resetpassword = "/users/resetpassword/:token";
+export const emailConfirmation = "/users/emailConfirmation";
+export const conversations = "/conversations";
+export const updateProfile = "/users/profile/me";
+export const changePassword = "/users/profile/me/changePassword";
