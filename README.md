@@ -6,7 +6,7 @@
 
 <!-- badges -->
 <div align="center">
-  <img src="https://api.netlify.com/api/v1/badges/303df690-7497-42d4-9bff-e472fcc5e4df/deploy-status" alt="netlify deployment status"> $nbsp;
+  <img src="https://api.netlify.com/api/v1/badges/303df690-7497-42d4-9bff-e472fcc5e4df/deploy-status" alt="netlify deployment status">
   <img src="https://img.shields.io/badge/License-MIT-yellow.svg" alt="MIT badge">
 </div>
 
